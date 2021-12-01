@@ -1,0 +1,16 @@
+.singletours-container img{
+    width: 80%;
+    height: 60vh;
+    margin-left: 5%;
+
+}
+.singletours-container button{
+    margin-left: 40%;
+    margin-top: 6%;
+    background-color: gray;
+    padding: 20px;
+    font-size: 20px;
+    color:whitesmoke;
+    width: 30%;
+    border-radius: 10px;
+}

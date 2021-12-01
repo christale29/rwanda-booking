@@ -1,0 +1,104 @@
+[
+  {
+    "title": " Nyungwe Park",
+    "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+    "seats": 50,
+    "available": 20,
+    "images": ["https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
+      "https://images.pexels.com/photos/1210273/pexels-photo-1210273.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/5441748/pexels-photo-5441748.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/675764/pexels-photo-675764.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/270736/pexels-photo-270736.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/910411/pexels-photo-910411.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/3186654/pexels-photo-3186654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1824353/pexels-photo-1824353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"],
+    "dateScheduled": "10 August 2010",
+    "dueDate": "15 August 2010",
+    "phone": "+250 788 788 788",
+    "price":300,
+    "user":{
+      "name":"blake",
+      "phone":"+250 788 788 788"
+    },
+    "tripDescription":"dsfhgsdfgjdfhahfvfbyusgfhjdfbnkjdfhjdhugsjrhluerhuaerhuere"
+  
+    
+  
+  },
+
+  {
+    "title": " Muhazi Lac",
+    "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+    "seats": 50,
+    "price":300,
+    "available": 20,
+    "images": ["https://images.pexels.com/photos/3225529/pexels-photo-3225529.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+       "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+       "https://images.pexels.com/photos/3601421/pexels-photo-3601421.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+       "https://images.pexels.com/photos/1656666/pexels-photo-1656666.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+       "https://images.pexels.com/photos/1508666/pexels-photo-1508666.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+       "https://images.pexels.com/photos/372882/pexels-photo-372882.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+       "https://images.pexels.com/photos/54082/carrots-vegetables-food-orange-54082.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"],
+    "dateScheduled": "10 August 2010",
+    "dueDate": "15 August 2010",
+    "phone": "+250 788 788 788",
+    "user":{
+      "name":"blake",
+      "phone":"+250 788 788 788"
+    },
+    "tripDescription":"dsfhgsdfgjdfhahfvfbyusgfhjdfbnkjdfhjdhugsjrhluerhuaerhuere"
+  
+    
+  
+  },
+  {
+    "title": " Gako Forest",
+    "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+    "seats": 80,
+    "price":300,
+    "available": 30,
+    "images": ["https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
+      "https://images.pexels.com/photos/128420/pexels-photo-128420.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/1567058/pexels-photo-1567058.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/414144/pexels-photo-414144.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/615348/forest-fog-sunny-nature-615348.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/1114896/pexels-photo-1114896.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"],
+    "dateScheduled": "10 August 2010",
+    "dueDate": "15 August 2010",
+    "phone": "+250 788 788 788",
+    "user":{
+      "name":"blake",
+      "phone":"+250 788 788 788"
+    },
+    "tripDescription":"dsfhgsdfgjdfhahfvfbyusgfhjdfbnkjdfhjdhugsjrhluerhuaerhuere"
+  
+    
+  
+  },
+  {
+    "title": " Akagera National Park",
+    "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+    "seats": 40,
+    "price":300,
+    "available": 20,
+    "images": ["https://images.pexels.com/photos/4072840/pexels-photo-4072840.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", 
+      "https://images.pexels.com/photos/230629/pexels-photo-230629.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/101841/pexels-photo-101841.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/207085/pexels-photo-207085.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "https://images.pexels.com/photos/1343537/pexels-photo-1343537.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"],
+    "dateScheduled": "10 August 2010",
+    "dueDate": "15 August 2010",
+    "phone": "+250 788 788 788",
+    "user":{
+      "name":"blake",
+      "phone":"+250 788 788 788"
+    },
+    "tripDescription":"dsfhgsdfgjdfhahfvfbyusgfhjdfbnkjdfhjdhugsjrhluerhuaerhuere"
+  
+    
+  
+  }
+]
