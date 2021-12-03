@@ -47,6 +47,7 @@ const NewTourview=()=>{
                     </Upload>
 
             </Form.Item>
+            <button htmltype="submit"type="primary">Register tour</button>
 
 
         </Form>

@@ -30,8 +30,8 @@ const Dashlayout=({children})=>{
             <Menu.Item key="2" icon={<VideoCameraOutlined />}>
               <Link to="/dash/alltour" >manage All tour</Link>
             </Menu.Item>
-            <Menu.Item key="3" icon={<UploadOutlined />}>
-              Logout
+            <Menu.Item key="3" icon={<UploadOutlined />} onClick={()=>localStorage.removeItem("userLogedIn")}>
+         <Link to="/">Logout</Link>
             </Menu.Item>
           </Menu>
         </Sider>

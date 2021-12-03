@@ -1,5 +1,5 @@
 import React from "react"
-import {Routes,Route} from "react-router-dom" ;
+import {Routes,Route,useLocation} from "react-router-dom" ;
 import Home from "../views/home";
 import Aboutus from "../views/aboutus";
 import Contactus from "../views/contactus";
@@ -13,9 +13,10 @@ import AllTour from "../views/Dashboard/allTours"
 
 // import Singletours from "../components/singletours";
 // import Singletour from "../views/singletour";
-
+const isUserLogedIn=localStorage.getItem("userLogedIn")
 
 const Index=()=>{
+    const currentUrl=useLocation().pathname
     return(
         <>
     <Routes>
@@ -30,17 +31,19 @@ const Index=()=>{
         {/* <Route path="/singletour" element={<Singletour/>}></Route> */}
        
         {/* <Route path="/signup" element={<Signup/>}></Route>  */}
-        
+        </Routes>
 
-        
-    
-    </Routes>
-    <DashLayout>
+        {isUserLogedIn && currentUrl.includes("/dash")?(
+        <DashLayout>
         <Routes>
             <Route path="/dash/newtour" element={<NewTourview/>}></Route>
             <Route path="/dash/alltour" element={<AllTour/>}></Route>
         </Routes>
     </DashLayout>
+    ):(<></>)}
+    
+    
+    
     </>
     )
 }

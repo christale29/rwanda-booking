@@ -2,13 +2,17 @@ import React, {useState} from "react";
 import "./header.css";
 import logo from "../asset/logo2.png";
 import { Modal,Form,Input } from "antd";
+import { useNavigate } from "react-router-dom";
 
 const Header=()=>{
     const [visible,setVisible]=useState(false);
 
     const onFinish=(values)=>{
         console.log(values)
+        localStorage.setItem("userLogedIn",true)
+        navigate("/dash/newtour")
     }
+    const navigate=useNavigate();
     return (
         <>
         <Modal 
@@ -22,9 +26,10 @@ const Header=()=>{
                 
                 </Form.Item>
                 <Form.Item label="password"name="password"rules={[{required:false}]}>
-                    <Input type="email"/>
-                
+                    <Input type="password"/>
                 </Form.Item>
+                <button
+                    htmlType="submit" onClick={()=>{}}>login</button>
                 
                 
             </Form>

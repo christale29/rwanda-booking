@@ -7,7 +7,7 @@ const Home=({children})=>{
     return(
         <div className="home-container">
             <Header/>
-             <div style={{minHeight:"80vh"}}>{children}
+             <div style={{minheight:"150vh"}}>{children}
             </div>
             <Footer/>
         </div>
